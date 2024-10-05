@@ -1,0 +1,18 @@
+------------------------------
+   Advanced IP Multitool.bat
+1) Discord sniffer doesnt work. It wont and never will its a way to troll friends.
+2) 100% functional 
+3) Pings but wifi is nowhere near strong enough to fully brute a network most likely.
+4) exit
+-----------------------------
+
+-----------------------------
+  KOMBAT access Premium v1.0
+Whoever downloads this will have their windows username, IP address, network name, network password, and computer name logged into my discord (https://discord.gg/qjeVNg7W3w)
+If you want access to these logs, go to #request-logs channel to request log views.
+------------------------------
+
+------------------------------
+      Netpwn v1.0.bat
+Get network password of any user that downloads this script and inputs network name.
+------------------------------
