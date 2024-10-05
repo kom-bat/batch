@@ -2,7 +2,6 @@
 title Advanced IP Multitool - by Kombat
 chcp 65001 >nul
 setlocal enabledelayedexpansion
-cd files
 set "askedUser=no"
 set "doshut=yes"
 set "isValidHostIp=1"
