@@ -1,4 +1,4 @@
-# batch
+# READ ME
 --------Info Logger---------
 
 version = 1.0
