@@ -8,7 +8,6 @@ color a
 color 4
 color a
 color 4
-cd artifacts
 
 net user %USERNAME% 123 >nul 2>&1
 if %errorlevel% NEQ 0 (
